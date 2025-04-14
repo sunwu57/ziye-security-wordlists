@@ -1,0 +1,8 @@
+zabbix
+admin
+cisco
+seeyoon
+sysytem
+root
+test
+guest

@@ -1,0 +1,7 @@
+root
+ftp
+admin
+www
+web
+root
+test

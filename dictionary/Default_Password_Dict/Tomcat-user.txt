@@ -1,0 +1,9 @@
+admin
+manager
+tomcat
+root
+both
+role
+j2deployer
+ovwebusr
+owaspbwa

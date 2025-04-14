@@ -1,0 +1,10 @@
+admin
+root
+Admin@123
+1qaz2wsx
+1qaz@WSX
+123456
+admin123
+000000
+123
+123456789
